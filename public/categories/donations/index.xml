@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>donations on NeoCrypter</title>
+    <link>neocrypteryt.netlify.app/categories/donations/</link>
+    <description>Recent content in donations on NeoCrypter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Mon, 19 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="neocrypteryt.netlify.app/categories/donations/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Support my Work</title>
+      <link>neocrypteryt.netlify.app/pages/supportme/</link>
+      <pubDate>Mon, 19 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>neocrypteryt.netlify.app/pages/supportme/</guid>
+      <description>Go Above and Beyond There are several ways you can support my content, the easiest is just to watch and hit that thumbs up button on the video&amp;rsquo;s and maybe share them around. But let&amp;rsquo;s be honest my family struggles just to pay the bills each month so any financial support is also very welcomed, not mandatory mind you but very appreciated. To that end there are a couple ways you can support the channel and in-turn help me dedicate more time to creating more content.</description>
+    </item>
+    
+  </channel>
+</rss>

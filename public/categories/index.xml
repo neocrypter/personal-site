@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on NeoCrypter</title>
+    <link>neocrypteryt.netlify.app/categories/</link>
+    <description>Recent content in Categories on NeoCrypter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Fri, 23 Dec 2022 15:53:37 -0600</lastBuildDate><atom:link href="neocrypteryt.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>tutoral</title>
+      <link>neocrypteryt.netlify.app/categories/tutoral/</link>
+      <pubDate>Fri, 23 Dec 2022 15:53:37 -0600</pubDate>
+      
+      <guid>neocrypteryt.netlify.app/categories/tutoral/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>neocrypteryt.netlify.app/categories/hugo/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>neocrypteryt.netlify.app/categories/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>neocrypteryt.netlify.app/categories/markdown/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>neocrypteryt.netlify.app/categories/markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Site</title>
+      <link>neocrypteryt.netlify.app/categories/new-site/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>neocrypteryt.netlify.app/categories/new-site/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web host</title>
+      <link>neocrypteryt.netlify.app/categories/web-host/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>neocrypteryt.netlify.app/categories/web-host/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutorials</title>
+      <link>neocrypteryt.netlify.app/categories/tutorials/</link>
+      <pubDate>Thu, 22 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>neocrypteryt.netlify.app/categories/tutorials/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>donations</title>
+      <link>neocrypteryt.netlify.app/categories/donations/</link>
+      <pubDate>Mon, 19 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>neocrypteryt.netlify.app/categories/donations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>support</title>
+      <link>neocrypteryt.netlify.app/categories/support/</link>
+      <pubDate>Mon, 19 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>neocrypteryt.netlify.app/categories/support/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tips</title>
+      <link>neocrypteryt.netlify.app/categories/tips/</link>
+      <pubDate>Mon, 19 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>neocrypteryt.netlify.app/categories/tips/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

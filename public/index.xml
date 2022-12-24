@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NeoCrypter</title>
+    <link>neocrypteryt.netlify.app/</link>
+    <description>Recent content on NeoCrypter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Fri, 23 Dec 2022 15:53:37 -0600</lastBuildDate><atom:link href="neocrypteryt.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coming Soon</title>
+      <link>neocrypteryt.netlify.app/tutorials/coming-soon/</link>
+      <pubDate>Fri, 23 Dec 2022 15:53:37 -0600</pubDate>
+      
+      <guid>neocrypteryt.netlify.app/tutorials/coming-soon/</guid>
+      <description>test </description>
+    </item>
+    
+    <item>
+      <title>post 2</title>
+      <link>neocrypteryt.netlify.app/posts/2022/12/post-2/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>neocrypteryt.netlify.app/posts/2022/12/post-2/</guid>
+      <description>colums Hello World </description>
+    </item>
+    
+    <item>
+      <title>MD Example</title>
+      <link>neocrypteryt.netlify.app/posts/2022/12/md-example/</link>
+      <pubDate>Thu, 22 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>neocrypteryt.netlify.app/posts/2022/12/md-example/</guid>
+      <description>Today we are going to install and setup OBS Studio for streaming. This is column 1. This is column 2. This is the details title (click to expand) This is the content (hidden until clicked). More more more more moreee moremore more more more stuff stuff stuff stuff </description>
+    </item>
+    
+    <item>
+      <title>Recent Videos</title>
+      <link>neocrypteryt.netlify.app/pages/recent-videos/</link>
+      <pubDate>Mon, 19 Dec 2022 14:59:42 -0600</pubDate>
+      
+      <guid>neocrypteryt.netlify.app/pages/recent-videos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Creating my new site</title>
+      <link>neocrypteryt.netlify.app/posts/2022/12/creating-my-new-site/</link>
+      <pubDate>Mon, 19 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>neocrypteryt.netlify.app/posts/2022/12/creating-my-new-site/</guid>
+      <description>Creating a site with HUGO With the way mainstream social media is going, especially twitter, I decided it&amp;rsquo;s time to make a place where I can organize my thoughts and various links to other social media platforms that I use. To that end I stumbled across HUGO a static site generator. You create markdown files which then through some techno wizardry converts to HTML ready for you to upload your site to whatever host you decide to use.</description>
+    </item>
+    
+    <item>
+      <title>Support my Work</title>
+      <link>neocrypteryt.netlify.app/pages/supportme/</link>
+      <pubDate>Mon, 19 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>neocrypteryt.netlify.app/pages/supportme/</guid>
+      <description>Go Above and Beyond There are several ways you can support my content, the easiest is just to watch and hit that thumbs up button on the video&amp;rsquo;s and maybe share them around. But let&amp;rsquo;s be honest my family struggles just to pay the bills each month so any financial support is also very welcomed, not mandatory mind you but very appreciated. To that end there are a couple ways you can support the channel and in-turn help me dedicate more time to creating more content.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>neocrypteryt.netlify.app/pages/about/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>neocrypteryt.netlify.app/pages/about/</guid>
+      <description>My name is F. Allen Barker aka NeoCrypter on YouTube and most social media. I am a content creator that loves to make tuorials, reviews and gaming video content. some of my favorite things is learning new ways to make content including,
+new technologies new software creative ways to do things using open source software where I can Beyond Just creating content on youtube I am the father of 3 and husband so my life is full of surprises</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,89 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on NeoCrypter</title>
+        <link>neocrypteryt.netlify.app/posts/</link>
+        <description>Recent content in Posts on NeoCrypter</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+        <lastBuildDate>Fri, 23 Dec 2022 00:00:00 +0000</lastBuildDate>
+        <atom:link href="neocrypteryt.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>post 2</title>
+            <link>neocrypteryt.netlify.app/posts/2022/12/post-2/</link>
+            <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+            
+            <guid>neocrypteryt.netlify.app/posts/2022/12/post-2/</guid>
+            <description>colums Hello World </description>
+            <content type="html"><![CDATA[<h2 id="colums">colums</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align:left"><image src="/images/wd-header.jpg"  alt="web Design" position="center" style="max-width:300px"></th>
+<th style="text-align:left"><image src="/images/wd-header.jpg"  alt="web Design" position="center" style="max-width:300px"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">Hello</td>
+<td style="text-align:left">World</td>
+</tr>
+</tbody>
+</table>
+]]></content>
+        </item>
+        
+        <item>
+            <title>MD Example</title>
+            <link>neocrypteryt.netlify.app/posts/2022/12/md-example/</link>
+            <pubDate>Thu, 22 Dec 2022 00:00:00 +0000</pubDate>
+            
+            <guid>neocrypteryt.netlify.app/posts/2022/12/md-example/</guid>
+            <description>Today we are going to install and setup OBS Studio for streaming. This is column 1. This is column 2. This is the details title (click to expand) This is the content (hidden until clicked). More more more more moreee moremore more more more stuff stuff stuff stuff </description>
+            <content type="html"><![CDATA[<h1 id="today-we-are-going-to-install-and-setup-obs-studio-for-streaming">Today we are going to install and setup OBS Studio for streaming.</h1>
+<p><div class="splitbox"><div class="left">
+
+This is column 1.
+</div><div class="right">
+
+This is column 2.
+</div><div style="clear:both"></div></div>
+</p>
+<details><summary>This is the details title (click to expand)</summary>
+This is the content (hidden until clicked). More more more more moreee moremore more more more
+stuff stuff stuff stuff
+<image src="/images/wd-header.jpg"  alt="web Design" position="center" style="max-width:600px">
+</details>
+
+]]></content>
+        </item>
+        
+        <item>
+            <title>Creating my new site</title>
+            <link>neocrypteryt.netlify.app/posts/2022/12/creating-my-new-site/</link>
+            <pubDate>Mon, 19 Dec 2022 00:00:00 +0000</pubDate>
+            
+            <guid>neocrypteryt.netlify.app/posts/2022/12/creating-my-new-site/</guid>
+            <description>Creating a site with HUGO With the way mainstream social media is going, especially twitter, I decided it&amp;rsquo;s time to make a place where I can organize my thoughts and various links to other social media platforms that I use. To that end I stumbled across HUGO a static site generator. You create markdown files which then through some techno wizardry converts to HTML ready for you to upload your site to whatever host you decide to use.</description>
+            <content type="html"><![CDATA[
+    <img src="/images/wd-header.jpg"  alt="web Design"  class="center"  style="max-width:600px"  />
+
+
+<h2 id="creating-a-site-with-hugo">Creating a site with HUGO</h2>
+<p>With the way mainstream social media is going, especially twitter, I decided it&rsquo;s time to make a place where I can organize my thoughts and various links to other social media platforms that I use. To that end I stumbled across HUGO a static site generator. You create markdown files which then through some techno wizardry converts to HTML ready for you to upload your site to whatever host you decide to use. The huge benefit to using something like this is speed, static sites will always be infinitely faster than &ldquo;dynamic&rdquo; websites that use any form of language to render the site such as php and mysql which is most likely the most commonly used combination of language and database for websites.</p>
+<p>If you don&rsquo;t know what I&rsquo;m talking about take WordPress for example. WordPress uses PHP, Javascript, MySql and other technologies which make it very easy to set up, use write content for add extra functionality over all it&rsquo;s a good choice for a lot of projects, but the downside is that when you request a page it then has to search the database and parse all the data that makes up that page which takes time, sure it could be just a few milliseconds if its optimized well and the server is not under a lot of load but, but if the site is not well optimized and or the server is under heavy load then that few milliseconds could turn into several seconds or completely hang leaving your end used wondering if the site is broke or if its hosted on an old 486DX-4 that you pulled out of a dumpster.</p>
+<p>Since I don&rsquo;t need to dynamically store and retrieve data  I decided that HUGO was a good fit, though that being said I have very little experience working with markdown and short codes so this is definitely a learning experience for me.</p>
+<h3 id="as-for-the-host">As for the host</h3>
+<p>Back in the early days of the web there was a free website host called geocities. It was a marvelous place to host and browse all manner of websites from informational sites, to sites dedicated to your cat and cat pictures. As the web developed though the site became obsolete and eventually went the way of the dodo. Apparently there is a spiritual successor to that beloved antiquity that was geocities which is neocities.org given I&rsquo;m a bit of an old coot as far as the web goes and I feel nostalgic I&rsquo;ve decided to host the site here it seems fitting as this is a static site, which despite static sites becoming more mainstream again still feels like something from a bygone age like geocities.</p>
+<h4 id="links">Links</h4>
+<p>The world’s fastest framework for building websites</p>
+<p><a href="https://www.gohugo.io">HUGO</a></p>
+<p>Create your own free website.
+Unlimited creativity, zero ads.</p>
+<p><a href="https://neocities.org/">neocities</a></p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>

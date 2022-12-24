@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markdown on NeoCrypter</title>
+    <link>neocrypteryt.netlify.app/categories/markdown/</link>
+    <description>Recent content in Markdown on NeoCrypter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Fri, 23 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="neocrypteryt.netlify.app/categories/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>post 2</title>
+      <link>neocrypteryt.netlify.app/posts/2022/12/post-2/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>neocrypteryt.netlify.app/posts/2022/12/post-2/</guid>
+      <description>colums Hello World </description>
+    </item>
+    
+    <item>
+      <title>Creating my new site</title>
+      <link>neocrypteryt.netlify.app/posts/2022/12/creating-my-new-site/</link>
+      <pubDate>Mon, 19 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>neocrypteryt.netlify.app/posts/2022/12/creating-my-new-site/</guid>
+      <description>Creating a site with HUGO With the way mainstream social media is going, especially twitter, I decided it&amp;rsquo;s time to make a place where I can organize my thoughts and various links to other social media platforms that I use. To that end I stumbled across HUGO a static site generator. You create markdown files which then through some techno wizardry converts to HTML ready for you to upload your site to whatever host you decide to use.</description>
+    </item>
+    
+  </channel>
+</rss>
